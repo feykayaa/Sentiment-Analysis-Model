@@ -1,0 +1,3 @@
+pip install pandas numpy scikit-learn nltk
+
+#Run in Terminal "pip freeze > requirements.txt"
